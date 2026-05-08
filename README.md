@@ -1,22 +1,10 @@
-<h1 align="center">Hello, I'm Farrel</h1>
+<h1 align="center">Hey there 👋, I'm Farrel</h1>
 
-###
+<h3 align="center">Informatics Engineering Student | Full-Stack & Mobile Developer</h3>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-</div>
+<p align="center">
+  I'm an engineering student with a deep interest in building robust software, from mobile applications and web interfaces to IoT integrations and self-hosted server environments. Always exploring new frameworks and pushing my technical boundaries.
+</p>
 
 ###
 
@@ -32,30 +20,60 @@
   </a>
 </div>
 
-###
+---
+
+### 💻 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android logo" title="Android" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo" title="Kotlin" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" title="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" title="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" title="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" title="C#" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" title="HTML5" />
+</div>
+
+---
+
+### ♟️ Let's Play Chess!
+
+<div align="center">
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-</div>
-
-###
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+### 📫 Let's Connect
+* Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/). 
+* *Note: I highly prefer text-based communication over calls!*
