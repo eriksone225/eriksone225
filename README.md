@@ -36,7 +36,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -50,6 +49,13 @@
 ###
 
 <div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
