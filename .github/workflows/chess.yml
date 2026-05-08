@@ -1,0 +1,19 @@
+name: Readme Chess
+on:
+  issue_comment:
+    types: [created]
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+jobs:
+  update-board:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: MarcBousquet/readme-chess@1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
