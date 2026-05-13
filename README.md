@@ -45,11 +45,42 @@
 ### ♟️ Let's Play Chess!
 
 <div align="center">
-  <a href="./chess.html">
-    <img src="./assets/chess-board.svg" width="500" alt="Clickable chess board preview" />
-  </a>
+  <img src="./assets/chess-board.svg" width="500" alt="Playable chess board" />
   <br />
-  <strong>Click the board to play.</strong>
+  <strong>White to move</strong>
+  <br />
+  <sub>White to move.</sub>
+  <br />
+  <sub>Last move: none - Move 1</sub>
+  <br /><br />
+
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20a2a3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/a2-a3-2ea44f?style=for-the-badge" alt="a2-a3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20a2a4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/a2-a4-2ea44f?style=for-the-badge" alt="a2-a4" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20b1a3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/b1-a3-2ea44f?style=for-the-badge" alt="b1-a3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20b1c3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/b1-c3-2ea44f?style=for-the-badge" alt="b1-c3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20b2b3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/b2-b3-2ea44f?style=for-the-badge" alt="b2-b3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20b2b4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/b2-b4-2ea44f?style=for-the-badge" alt="b2-b4" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20c2c3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/c2-c3-2ea44f?style=for-the-badge" alt="c2-c3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20c2c4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/c2-c4-2ea44f?style=for-the-badge" alt="c2-c4" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20d2d3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/d2-d3-2ea44f?style=for-the-badge" alt="d2-d3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20d2d4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/d2-d4-2ea44f?style=for-the-badge" alt="d2-d4" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20e2e3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/e2-e3-2ea44f?style=for-the-badge" alt="e2-e3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20e2e4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/e2-e4-2ea44f?style=for-the-badge" alt="e2-e4" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20f2f3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/f2-f3-2ea44f?style=for-the-badge" alt="f2-f3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20f2f4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/f2-f4-2ea44f?style=for-the-badge" alt="f2-f4" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20g1f3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/g1-f3-2ea44f?style=for-the-badge" alt="g1-f3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20g1h3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/g1-h3-2ea44f?style=for-the-badge" alt="g1-h3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20g2g3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/g2-g3-2ea44f?style=for-the-badge" alt="g2-g3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20g2g4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/g2-g4-2ea44f?style=for-the-badge" alt="g2-g4" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20h2h3&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/h2-h3-2ea44f?style=for-the-badge" alt="h2-h3" /></a>
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20h2h4&body=Submit%20this%20issue%20to%20play%20the%20move.%20A%20GitHub%20Action%20will%20update%20the%20board%20in%20the%20profile%20README%20and%20close%20the%20issue."><img src="https://img.shields.io/badge/h2-h4-2ea44f?style=for-the-badge" alt="h2-h4" /></a>
+
+  <br /><br />
+  <a href="https://github.com/eriksone225/eriksone225/issues/new?title=chess%3A%20reset&body=Submit%20this%20issue%20to%20reset%20the%20profile%20chess%20board."><img src="https://img.shields.io/badge/reset-board-red?style=for-the-badge" alt="Reset board" /></a>
+  <br />
+  <sub>How to play: click a move badge, submit the pre-filled GitHub issue, and the profile board updates automatically. GitHub READMEs cannot run live JavaScript, so this uses GitHub Actions inside the profile repository.</sub>
+  <br />
+  <sub>Recent moves: No moves yet.</sub>
 </div>
 
 ---
