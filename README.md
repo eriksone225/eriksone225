@@ -1,3 +1,5 @@
+<font face="Courier New, Courier, monospace">
+
 <div align="center">
   <h1>Hi, I'm Farrel Krisna 👋</h1>
   <p><strong>Informatics Engineering Student • Full-Stack & Mobile Developer</strong></p>
@@ -106,3 +108,5 @@
   <br /><br />
   <sub>You have reached the end, thank you.</sub>
 </div>
+
+</font>
