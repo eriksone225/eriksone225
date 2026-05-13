@@ -26,6 +26,24 @@ jobs:
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: set Courier font
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          path = Path('dist/stats.svg')
+          text = path.read_text()
+          replacements = {
+              "'Segoe UI', Ubuntu, Sans-Serif": "'Courier New', Courier, monospace",
+              "'Segoe UI', Ubuntu, \"Helvetica Neue\", Sans-Serif": "'Courier New', Courier, monospace",
+              "'Segoe UI', Ubuntu, Sans-serif": "'Courier New', Courier, monospace",
+              "Segoe UI, Ubuntu, Sans-Serif": "Courier New, Courier, monospace",
+              "Segoe UI, Ubuntu, \"Helvetica Neue\", Sans-Serif": "Courier New, Courier, monospace",
+          }
+          for old, new in replacements.items():
+              text = text.replace(old, new)
+          path.write_text(text)
+          PY
+
       - name: push stats.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
