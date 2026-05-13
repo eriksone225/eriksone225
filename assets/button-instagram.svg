@@ -1,0 +1,8 @@
+<svg width="220" height="44" viewBox="0 0 220 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Instagram follow button</title>
+  <desc id="desc">Black rounded button with aquamarine outline.</desc>
+  <rect x="1" y="1" width="218" height="42" rx="12" fill="#050708" stroke="#7FFFD4" stroke-width="2"/>
+  <line x1="128" y1="8" x2="128" y2="36" stroke="#7FFFD4" stroke-opacity="0.65"/>
+  <text x="65" y="27" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.8" fill="#FFFFFF">INSTAGRAM</text>
+  <text x="174" y="27" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.8" fill="#7FFFD4">FOLLOW</text>
+</svg>
