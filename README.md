@@ -45,6 +45,7 @@
 ### ♟️ Let's Play Chess!
 
 <div align="center">
+  <img src="./assets/chess-board.svg" width="640" alt="Chess board preview" />
 </div>
 
 ---
