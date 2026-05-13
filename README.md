@@ -6,15 +6,9 @@
     I like clean interfaces, reliable architecture, and projects that are simple to use but solid underneath.
   </p>
 
-  <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank">
-    <img src="./assets/button-linkedin.svg" alt="LinkedIn Connect" />
-  </a>
-  <a href="https://www.instagram.com/farrelkrsn/" target="_blank">
-    <img src="./assets/button-instagram.svg" alt="Instagram Follow" />
-  </a>
-  <a href="https://open.spotify.com/user/31fshupjs76tsw2z3ryfqhjr2xcm?si=9e53bdbf15ba48ab" target="_blank">
-    <img src="./assets/button-spotify.svg" alt="Spotify Listen" />
-  </a>
+  <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank"><img src="./assets/button-linkedin.svg" alt="LinkedIn Connect" /></a>
+  <a href="https://www.instagram.com/farrelkrsn/" target="_blank"><img src="./assets/button-instagram.svg" alt="Instagram Follow" /></a>
+  <a href="https://open.spotify.com/user/31fshupjs76tsw2z3ryfqhjr2xcm?si=9e53bdbf15ba48ab" target="_blank"><img src="./assets/button-spotify.svg" alt="Spotify Listen" /></a>
 </div>
 
 <br />
@@ -65,10 +59,10 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mobile-Android%20%7C%20Kotlin-7FFFD4?style=flat-square&logo=android&logoColor=050708&labelColor=050708" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Web-TypeScript%20%7C%20JavaScript-FFFFFF?style=flat-square&logo=typescript&logoColor=050708&labelColor=050708" alt="Web" />
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20C%23-7FFFD4?style=flat-square&logo=python&logoColor=050708&labelColor=050708" alt="Backend" />
-  <img src="https://img.shields.io/badge/Systems-IoT%20%7C%20Self--Hosting-FFFFFF?style=flat-square&labelColor=050708&color=FFFFFF" alt="Systems" />
+  <img src="./assets/badge-mobile.svg" alt="Mobile Android Kotlin" />
+  <img src="./assets/badge-web.svg" alt="Web TypeScript JavaScript" />
+  <img src="./assets/badge-backend.svg" alt="Backend Python C Sharp" />
+  <img src="./assets/badge-systems.svg" alt="Systems IoT Self Hosting" />
 </div>
 
 ---
@@ -76,7 +70,7 @@
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=12&ring=7FFFD4&fire=7FFFD4&currStreakLabel=7FFFD4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=7FFFD4&dates=FFFFFF&background=05070800" height="170" alt="GitHub streak graph" />
+  <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=transparent&hide_border=false&border=7FFFD4&border_radius=12&ring=7FFFD4&fire=7FFFD4&currStreakLabel=7FFFD4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=7FFFD4&dates=FFFFFF&background=05070800" height="170" alt="GitHub streak graph" />
 </div>
 
 <br />
@@ -101,12 +95,8 @@
 ## Connect
 
 <div align="center">
-  <p>
-    Open to collaboration, project discussions, and text-based communication.
-  </p>
-  <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank">
-    <img src="./assets/button-message-linkedin.svg" alt="Message me on LinkedIn" />
-  </a>
+  <p>Open to collaboration, project discussions, and text-based communication.</p>
+  <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank"><img src="./assets/button-message-linkedin.svg" alt="Message me on LinkedIn" /></a>
 </div>
 
 ---
