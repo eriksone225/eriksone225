@@ -1,79 +1,118 @@
-<h1 align="center">Hey there 👋, I'm Farrel</h1>
-
-<h3 align="center">Informatics Engineering Student | Full-Stack & Mobile Developer</h3>
-
-<p align="center">
-  I'm an engineering student with a deep interest in building robust software, from mobile applications and web interfaces to IoT integrations and self-hosted server environments. Always exploring new frameworks and pushing my technical boundaries.
-</p>
-
-###
-
 <div align="center">
+  <h1>Hi, I'm Farrel Krisna 👋</h1>
+  <p><strong>Informatics Engineering Student • Full-Stack & Mobile Developer</strong></p>
+  <p>
+    I build practical software across mobile, web, backend, IoT, and self-hosted systems.
+    I like clean interfaces, reliable architecture, and projects that are simple to use but solid underneath.
+  </p>
+
   <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7FFFD4?style=for-the-badge&logo=linkedin&logoColor=050708&labelColor=050708" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/farrelkrsn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-Follow-FFFFFF?style=for-the-badge&logo=instagram&logoColor=050708&labelColor=050708" alt="Instagram" />
   </a>
   <a href="https://open.spotify.com/user/31fshupjs76tsw2z3ryfqhjr2xcm?si=9e53bdbf15ba48ab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+    <img src="https://img.shields.io/badge/Spotify-Listen-7FFFD4?style=for-the-badge&logo=spotify&logoColor=050708&labelColor=050708" alt="Spotify" />
   </a>
 </div>
 
+<br />
+
 ---
 
-### 💻 Tech Stack & Tools
+## About Me
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I do</h3>
+      <p>
+        I work on full-stack and mobile projects, with an interest in building applications that are clean, usable, and maintainable.
+        I enjoy turning ideas into working systems, from interface design to backend logic and deployment.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I care about</h3>
+      <p>
+        Good structure, readable code, strong fundamentals, and software that feels smooth for the people using it.
+        I am always learning new tools while sharpening the basics.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android logo" title="Android" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo" title="Kotlin" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" title="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" title="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" title="C#" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android" title="Android" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="Kotlin" title="Kotlin" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" title="TypeScript" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Mobile-Android%20%7C%20Kotlin-7FFFD4?style=flat-square&logo=android&logoColor=050708&labelColor=050708" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Web-TypeScript%20%7C%20JavaScript-FFFFFF?style=flat-square&logo=typescript&logoColor=050708&labelColor=050708" alt="Web" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20C%23-7FFFD4?style=flat-square&logo=python&logoColor=050708&labelColor=050708" alt="Backend" />
+  <img src="https://img.shields.io/badge/Systems-IoT%20%7C%20Self--Hosting-FFFFFF?style=flat-square&labelColor=050708&color=FFFFFF" alt="Systems" />
 </div>
 
 ---
 
-### ♟️ Let's Play Chess!
+## GitHub Activity
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=12&ring=7FFFD4&fire=7FFFD4&currStreakLabel=7FFFD4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=7FFFD4&dates=FFFFFF&background=05070800" height="170" alt="GitHub streak graph" />
 </div>
 
----
+<br />
 
-### 📊 GitHub Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/stats-output/stats.svg" height="165" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/languages-output/languages.svg" height="165" alt="Most used languages" />
+</div>
+
+<br />
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ---
 
-### 📫 Let's Connect
-* Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/). 
-* *Note: I highly prefer text-based communication over calls!*
+## Connect
+
+<div align="center">
+  <p>
+    Open to collaboration, project discussions, and text-based communication.
+  </p>
+  <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank">
+    <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-7FFFD4?style=for-the-badge&logo=linkedin&logoColor=050708&labelColor=050708" alt="Message me on LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/end.gif" alt="Ending gif" width="540" />
+  <br /><br />
+  <sub>You have reached the end, thank you.</sub>
+</div>

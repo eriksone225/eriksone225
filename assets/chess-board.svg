@@ -1,0 +1,37 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Playable chess board preview</title>
+  <desc id="desc">A chess board styled like the requested UI, linked from the README to a playable chess board.</desc>
+  <rect width="640" height="640" fill="#111827"/>
+  <rect x="0" y="0" width="640" height="640" fill="#222b3a"/>
+
+  <g transform="translate(4 4)">
+    <rect width="632" height="632" fill="#f0d9b5"/>
+
+    <g>
+      <rect x="0" y="0" width="79" height="79" fill="#f0d9b5"/><rect x="79" y="0" width="79" height="79" fill="#b88a63"/><rect x="158" y="0" width="79" height="79" fill="#f0d9b5"/><rect x="237" y="0" width="79" height="79" fill="#b88a63"/><rect x="316" y="0" width="79" height="79" fill="#f0d9b5"/><rect x="395" y="0" width="79" height="79" fill="#b88a63"/><rect x="474" y="0" width="79" height="79" fill="#f0d9b5"/><rect x="553" y="0" width="79" height="79" fill="#b88a63"/>
+      <rect x="0" y="79" width="79" height="79" fill="#b88a63"/><rect x="79" y="79" width="79" height="79" fill="#f0d9b5"/><rect x="158" y="79" width="79" height="79" fill="#b88a63"/><rect x="237" y="79" width="79" height="79" fill="#f0d9b5"/><rect x="316" y="79" width="79" height="79" fill="#b88a63"/><rect x="395" y="79" width="79" height="79" fill="#f0d9b5"/><rect x="474" y="79" width="79" height="79" fill="#b88a63"/><rect x="553" y="79" width="79" height="79" fill="#f0d9b5"/>
+      <rect x="0" y="158" width="79" height="79" fill="#f0d9b5"/><rect x="79" y="158" width="79" height="79" fill="#b88a63"/><rect x="158" y="158" width="79" height="79" fill="#f0d9b5"/><rect x="237" y="158" width="79" height="79" fill="#b88a63"/><rect x="316" y="158" width="79" height="79" fill="#f0d9b5"/><rect x="395" y="158" width="79" height="79" fill="#b88a63"/><rect x="474" y="158" width="79" height="79" fill="#f0d9b5"/><rect x="553" y="158" width="79" height="79" fill="#b88a63"/>
+      <rect x="0" y="237" width="79" height="79" fill="#b88a63"/><rect x="79" y="237" width="79" height="79" fill="#f0d9b5"/><rect x="158" y="237" width="79" height="79" fill="#b88a63"/><rect x="237" y="237" width="79" height="79" fill="#f0d9b5"/><rect x="316" y="237" width="79" height="79" fill="#b88a63"/><rect x="395" y="237" width="79" height="79" fill="#f0d9b5"/><rect x="474" y="237" width="79" height="79" fill="#b88a63"/><rect x="553" y="237" width="79" height="79" fill="#f0d9b5"/>
+      <rect x="0" y="316" width="79" height="79" fill="#f0d9b5"/><rect x="79" y="316" width="79" height="79" fill="#b88a63"/><rect x="158" y="316" width="79" height="79" fill="#f0d9b5"/><rect x="237" y="316" width="79" height="79" fill="#b88a63"/><rect x="316" y="316" width="79" height="79" fill="#f0d9b5"/><rect x="395" y="316" width="79" height="79" fill="#b88a63"/><rect x="474" y="316" width="79" height="79" fill="#f0d9b5"/><rect x="553" y="316" width="79" height="79" fill="#b88a63"/>
+      <rect x="0" y="395" width="79" height="79" fill="#b88a63"/><rect x="79" y="395" width="79" height="79" fill="#f0d9b5"/><rect x="158" y="395" width="79" height="79" fill="#b88a63"/><rect x="237" y="395" width="79" height="79" fill="#f0d9b5"/><rect x="316" y="395" width="79" height="79" fill="#b88a63"/><rect x="395" y="395" width="79" height="79" fill="#f0d9b5"/><rect x="474" y="395" width="79" height="79" fill="#b88a63"/><rect x="553" y="395" width="79" height="79" fill="#f0d9b5"/>
+      <rect x="0" y="474" width="79" height="79" fill="#f0d9b5"/><rect x="79" y="474" width="79" height="79" fill="#b88a63"/><rect x="158" y="474" width="79" height="79" fill="#f0d9b5"/><rect x="237" y="474" width="79" height="79" fill="#b88a63"/><rect x="316" y="474" width="79" height="79" fill="#f0d9b5"/><rect x="395" y="474" width="79" height="79" fill="#b88a63"/><rect x="474" y="474" width="79" height="79" fill="#f0d9b5"/><rect x="553" y="474" width="79" height="79" fill="#b88a63"/>
+      <rect x="0" y="553" width="79" height="79" fill="#b88a63"/><rect x="79" y="553" width="79" height="79" fill="#f0d9b5"/><rect x="158" y="553" width="79" height="79" fill="#b88a63"/><rect x="237" y="553" width="79" height="79" fill="#f0d9b5"/><rect x="316" y="553" width="79" height="79" fill="#b88a63"/><rect x="395" y="553" width="79" height="79" fill="#f0d9b5"/><rect x="474" y="553" width="79" height="79" fill="#b88a63"/><rect x="553" y="553" width="79" height="79" fill="#f0d9b5"/>
+    </g>
+
+    <g font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" text-anchor="middle" dominant-baseline="middle">
+      <g fill="#000000">
+        <text x="39.5" y="39.5">♜</text><text x="118.5" y="39.5">♞</text><text x="197.5" y="39.5">♝</text><text x="276.5" y="39.5">♛</text><text x="355.5" y="39.5">♚</text><text x="434.5" y="39.5">♝</text><text x="513.5" y="39.5">♞</text><text x="592.5" y="39.5">♜</text>
+        <text x="39.5" y="118.5">♟</text><text x="118.5" y="118.5">♟</text><text x="197.5" y="118.5">♟</text><text x="276.5" y="118.5">♟</text><text x="355.5" y="118.5">♟</text><text x="434.5" y="118.5">♟</text><text x="513.5" y="118.5">♟</text><text x="592.5" y="118.5">♟</text>
+      </g>
+      <g fill="#ffffff" stroke="#000000" stroke-width="1">
+        <text x="39.5" y="513.5">♙</text><text x="118.5" y="513.5">♙</text><text x="197.5" y="513.5">♙</text><text x="276.5" y="513.5">♙</text><text x="355.5" y="513.5">♙</text><text x="434.5" y="513.5">♙</text><text x="513.5" y="513.5">♙</text><text x="592.5" y="513.5">♙</text>
+        <text x="39.5" y="592.5">♖</text><text x="118.5" y="592.5">♘</text><text x="197.5" y="592.5">♗</text><text x="276.5" y="592.5">♕</text><text x="355.5" y="592.5">♔</text><text x="434.5" y="592.5">♗</text><text x="513.5" y="592.5">♘</text><text x="592.5" y="592.5">♖</text>
+      </g>
+    </g>
+
+    <g font-family="Arial, sans-serif" font-size="16" font-weight="700">
+      <text x="8" y="20" fill="#b88a63">8</text><text x="8" y="99" fill="#f0d9b5">7</text><text x="8" y="178" fill="#b88a63">6</text><text x="8" y="257" fill="#f0d9b5">5</text><text x="8" y="336" fill="#b88a63">4</text><text x="8" y="415" fill="#f0d9b5">3</text><text x="8" y="494" fill="#b88a63">2</text><text x="8" y="573" fill="#f0d9b5">1</text>
+      <text x="64" y="626" fill="#f0d9b5">a</text><text x="143" y="626" fill="#b88a63">b</text><text x="222" y="626" fill="#f0d9b5">c</text><text x="301" y="626" fill="#b88a63">d</text><text x="380" y="626" fill="#f0d9b5">e</text><text x="459" y="626" fill="#b88a63">f</text><text x="538" y="626" fill="#f0d9b5">g</text><text x="617" y="626" fill="#b88a63">h</text>
+    </g>
+  </g>
+</svg>
