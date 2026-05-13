@@ -108,3 +108,11 @@
     <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-7FFFD4?style=for-the-badge&logo=linkedin&logoColor=050708&labelColor=050708" alt="Message me on LinkedIn" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="./assets/end.gif" alt="Ending gif" width="540" />
+  <br /><br />
+  <sub>You have reached the end, thank you.</sub>
+</div>
