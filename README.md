@@ -45,7 +45,11 @@
 ### ♟️ Let's Play Chess!
 
 <div align="center">
-  <img src="./assets/chess-board.svg" width="640" alt="Chess board preview" />
+  <a href="./chess.html">
+    <img src="./assets/chess-board.svg" width="500" alt="Clickable chess board preview" />
+  </a>
+  <br />
+  <strong>Click the board to play.</strong>
 </div>
 
 ---
