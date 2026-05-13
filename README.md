@@ -7,13 +7,13 @@
   </p>
 
   <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7FFFD4?style=for-the-badge&logo=linkedin&logoColor=050708&labelColor=050708" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/farrelkrsn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-FFFFFF?style=for-the-badge&logo=instagram&logoColor=050708&labelColor=050708" alt="Instagram" />
   </a>
   <a href="https://open.spotify.com/user/31fshupjs76tsw2z3ryfqhjr2xcm?si=9e53bdbf15ba48ab" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Listen-7FFFD4?style=for-the-badge&logo=spotify&logoColor=050708&labelColor=050708" alt="Spotify" />
   </a>
 </div>
 
@@ -65,10 +65,10 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mobile-Android%20%7C%20Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Web-TypeScript%20%7C%20JavaScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Web" />
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20C%23-3776AB?style=flat-square&logo=python&logoColor=white" alt="Backend" />
-  <img src="https://img.shields.io/badge/Systems-IoT%20%7C%20Self--Hosting-111827?style=flat-square" alt="Systems" />
+  <img src="https://img.shields.io/badge/Mobile-Android%20%7C%20Kotlin-7FFFD4?style=flat-square&logo=android&logoColor=050708&labelColor=050708" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Web-TypeScript%20%7C%20JavaScript-FFFFFF?style=flat-square&logo=typescript&logoColor=050708&labelColor=050708" alt="Web" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20C%23-7FFFD4?style=flat-square&logo=python&logoColor=050708&labelColor=050708" alt="Backend" />
+  <img src="https://img.shields.io/badge/Systems-IoT%20%7C%20Self--Hosting-FFFFFF?style=flat-square&labelColor=050708&color=FFFFFF" alt="Systems" />
 </div>
 
 ---
@@ -76,24 +76,24 @@
 ## GitHub Activity
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=12&ring=7FFFD4&fire=7FFFD4&currStreakLabel=7FFFD4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=7FFFD4&dates=FFFFFF&background=05070800" height="170" alt="GitHub streak graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/stats-output/stats.svg" height="165" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/languages-output/languages.svg" height="165" alt="Most used languages" />
+</div>
+
+<br />
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/eriksone225/eriksone225/pacman-output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eriksone225&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=8&order=3" height="155" alt="GitHub streak graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/stats-output/stats.svg" height="155" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/eriksone225/eriksone225/languages-output/languages.svg" height="155" alt="Most used languages" />
 </div>
 
 ---
@@ -105,6 +105,6 @@
     Open to collaboration, project discussions, and text-based communication.
   </p>
   <a href="https://www.linkedin.com/in/farrel-krisnanegara-b2a252220/" target="_blank">
-    <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" />
+    <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-7FFFD4?style=for-the-badge&logo=linkedin&logoColor=050708&labelColor=050708" alt="Message me on LinkedIn" />
   </a>
 </div>
