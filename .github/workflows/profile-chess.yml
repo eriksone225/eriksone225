@@ -1,0 +1,58 @@
+name: Profile Chess Move
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      move:
+        description: "Move to play, like e2e4, or reset"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: profile-chess
+  cancel-in-progress: false
+
+jobs:
+  play:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, 'chess:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply chess move
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          MANUAL_MOVE: ${{ github.event.inputs.move }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            MOVE="$MANUAL_MOVE"
+          else
+            MOVE="${ISSUE_TITLE#chess:}"
+          fi
+          python scripts/profile_chess.py --move "$MOVE"
+
+      - name: Commit updated chess board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/chess-board.svg chess/state.json
+          if git diff --cached --quiet; then
+            echo "No chess changes to commit."
+          else
+            git commit -m "Update profile chess board"
+            git push
+          fi
+
+      - name: Close chess move issue
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue close "${{ github.event.issue.number }}" --comment "Chess move processed. The profile board will update after GitHub refreshes the README."
